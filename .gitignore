@@ -1,0 +1,7 @@
+qt/.vs
+qt/widgets/Debug
+qt/Debug
+qt/widgets/Release
+qt/Release
+
+qt/widgets/main.cpp
