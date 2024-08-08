@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.34301.259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "widgets", "widgets\widgets.vcxproj", "{A6B63790-4A01-445A-B67A-79420E1A1029}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MVCTest", "MVCTest\MVCTest.vcxproj", "{9CA0F539-5E74-46EC-9519-06B59942B295}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{A6B63790-4A01-445A-B67A-79420E1A1029}.Debug|x86.Build.0 = Debug|Win32
 		{A6B63790-4A01-445A-B67A-79420E1A1029}.Release|x86.ActiveCfg = Release|Win32
 		{A6B63790-4A01-445A-B67A-79420E1A1029}.Release|x86.Build.0 = Release|Win32
+		{9CA0F539-5E74-46EC-9519-06B59942B295}.Debug|x86.ActiveCfg = Debug|Win32
+		{9CA0F539-5E74-46EC-9519-06B59942B295}.Debug|x86.Build.0 = Debug|Win32
+		{9CA0F539-5E74-46EC-9519-06B59942B295}.Release|x86.ActiveCfg = Release|Win32
+		{9CA0F539-5E74-46EC-9519-06B59942B295}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,10 @@
 qt/.vs
-qt/widgets/Debug
 qt/Debug
-qt/widgets/Release
 qt/Release
-
+qt/widgets/Release
+qt/widgets/Debug
 qt/widgets/main.cpp
+
+qt/MVCTest/Debug
+qt/MVCTest/Release
+*.vcxproj*
